@@ -11,7 +11,6 @@ public class ItemRotation : MonoBehaviour
     void Start()
     {
         itemTransform = this.GetComponent<Transform>();
-        debug.log("hello");
     }
 
     // Update is called once per frame
