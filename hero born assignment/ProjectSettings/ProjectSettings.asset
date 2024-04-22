@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: 4a7c9018c32384249ae0f15a29a8cc23
+  productGUID: 050b853cab18add44b6c876d8577691e
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: practice-unity-git
+  productName: hero born assignment
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -676,14 +676,14 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: practice-unity-git
+  metroPackageName: hero born assignment
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: practice-unity-git
+  metroApplicationDescription: hero born assignment
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -752,10 +752,10 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: b98411bc-f2e0-4497-b1c3-142d22adcdfb
+  cloudProjectId: 1f746643-8cec-4d9b-8d56-0995e496b877
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: practice-unity-git
+  projectName: hero born assignment
   organizationId: tasnuvac
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
